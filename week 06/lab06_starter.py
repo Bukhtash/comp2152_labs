@@ -164,7 +164,7 @@ def parse_arp_table(output):
 
 
 # ============================================================
-#  SECTION C: File I/O — Text Files
+#  SECTION C: File I/O — Text File
 # ============================================================
 
 
